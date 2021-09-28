@@ -80,7 +80,7 @@ final class Versions
   'sebastian/recursion-context' => '1.0.2@913401df809e99e4f47b27cdd781f4a258d58791',
   'sebastian/version' => '1.0.6@58b3a85e7999757d6ad81c787a1fbf5ff6c628c6',
   'symfony/yaml' => 'v3.0.3@b5ba64cd67ecd6887f63868fa781ca094bd1377c',
-  '__root__' => '1.0.0+no-version-set@',
+  '__root__' => 'dev-main@48d95385873e3b3453e528d579b08210b6356470',
 );
 
     private function __construct()
