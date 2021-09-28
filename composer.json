@@ -9,6 +9,6 @@
 
 	},
 	"autoload": {
-        "psr-4": {"Vendas\\": "Vendas"}
+        "psr-4": {"Vendas\\": "Vendas/"}
     }
 }
