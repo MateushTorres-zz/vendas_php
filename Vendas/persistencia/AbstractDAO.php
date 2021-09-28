@@ -17,14 +17,14 @@ abstract class AbstractDAO {
 	public function createEntityManager() {
 
 		$path = array (
-		    'LojaAgua/entidades'
+		    'Vendas/entidades'
 		);
 		$devMode = true;
 
 		$config = Setup::createAnnotationMetadataConfiguration ( $path, $devMode );
 
 		$connectionOptions =  array (
-		    'dbname' => 'vendaagua',
+		    'dbname' => 'Vendas',
 		    'user' => 'root',
 		    'password' => '',
 		    'host' => 'localhost',
